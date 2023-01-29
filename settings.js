@@ -43,7 +43,7 @@ global.sp = ''
 //messages
 global.mess = {
     success: 'Here you go!',
-    admin: 'Patticheee adminu matrave pattooo  ki ki ki 😁!',
+    admin: 'Patticheee adminu matrave pattooo  ki ki ki😁!',
     botAdmin: 'Enne admin aakuo 🥺!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
